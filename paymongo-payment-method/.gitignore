@@ -1,2 +1,5 @@
-/.env/
-/vendor/
+# Ignore the .env file
+.env
+
+# Ignore the vendor directory (commonly used by Composer in PHP projects)
+vendor/
